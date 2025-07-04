@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Asavela I have a Diploma in Financial Information Systems and I am fascinated by the world of Data Analytics.
+## Hi there 👋 My name is Asavela, I have a Diploma in Financial Information Systems and I am fascinated by the world of Data Analytics.
 
 - 🔭 I’m currently working on various data analytics projects in different fields mostly using SQL to query data, while using Excel and PowerBI for visualizations.
 - To upskill myself for market competitiveness I am currently learning python pandas so I can possess all the necessary tools I need to bring raw data to life.
