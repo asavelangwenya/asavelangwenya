@@ -1,8 +1,7 @@
 ## Hi there 👋 My name is Asavela I have a Diploma in Financial Information Systems and I am fascinated by the world of Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on various data analytics projects 
+
 <!--
 **asavelangwenya/asavelangwenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
