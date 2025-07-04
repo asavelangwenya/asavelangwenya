@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on various data analytics projects in different fields mostly using SQL to query data, while using Excel and PowerBI for visualizations.
 - To upskill myself for market competitiveness I am currently learning python pandas so I can possess all the necessary tools I need to bring raw data to life.
+    -   Here is a recent project I created https://github.com/asavelangwenya/Hospital-Management
 <!--
 **asavelangwenya/asavelangwenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
